@@ -10,6 +10,8 @@ This first step invloves you to ready your environment with the necessary softwa
 - Install packges you need for Azure Machine Learning
 - Test that you can connect to your new Python Environment and your SDK's are properly installed
 
+Video for this: [Setup DevRig For Azure Machine Learning Part 1](https://youtu.be/xB7eCrgR0jY)
+
 ## Step 2
 In this step we will connect your newly provisioned environment to your Azure Machine Learning Workspace. The trick being its a new workspace and you need to create one in Azure and make the connection locally on your laptop. Another option is to work direclty from the Azure Portal in the browsers.. but what are we.. savages? no we are not. we are civilized.
 
@@ -18,6 +20,8 @@ In this step we will connect your newly provisioned environment to your Azure Ma
 - Connect your Azure ML workspace to your local Python environment via your Jupyter Notebook
 - Test your connection
 - Write out your Azure ML Workspace configuration file to your local dev rig so you can just call it for futur work rather than making connecting manually everytime.
+
+Video for this: [Setup DevRig For Azure Machine Learning Part 2](https://youtu.be/Ux4SoMLje8M)
 
 ## Step 3 
 In this step we will make a new connection using the persisted config file and do one experiment all the way through.
