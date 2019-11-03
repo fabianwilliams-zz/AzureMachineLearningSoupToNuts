@@ -27,3 +27,5 @@ Video for this: [Setup DevRig For Azure Machine Learning Part 2](https://youtu.b
 In this step we will make a new connection using the persisted config file and do one experiment all the way through.
 
 - WIP
+
+Video for this: [Setup DevRig For Azure Machine Learning Part 3](https://youtu.be/WoBM8TxMUzg)
